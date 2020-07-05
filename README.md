@@ -7,7 +7,3 @@ Technologies used
 - React Hooks
 - Webpack
 - Webpack Module Federation
-
-```
-
-```
